@@ -1,0 +1,5 @@
+[project]
+name = "awesome-ai4ai"
+version = "0.1.0"
+description = "AI4AI Survey: can AI reliably improve AI? 223 papers on long-horizon agents, benchmarks, harness design, and recursive self-improvement · updated weekly"
+requires-python = ">=3.10"
